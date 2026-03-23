@@ -1,0 +1,13 @@
+Il existe plein de profils NACA, ils sont regroupés en 5 catégories :
+- Biconvexe symétrique
+- Biconvexe dissymétrique
+- plan convexe
+- Profils creux
+- Profils à Double courbure
+
+ici on se propose de créer notre aile nous-même mais si besoin il y a possibilité de récupérer des profils déjà fait
+par exemple sur cette page GitHub https://github.com/bazucas/NACAAirfoilPythonApp
+
+j'ai fait un programme python pour avoir le profil en fonction des paramètres désirés.
+Il faut maintenant le modifier pour avoir l'aile en 3D (ajouter un facteur de régression pour que  la corde du saumon soit plus faible que celle du Karman)
+Ensuite on pourra faire des simulations avec Fusion 360 ou XFOIL (gratuit) et obtenir la polaire de l'aile
