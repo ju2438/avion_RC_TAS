@@ -50,21 +50,28 @@ def naca4_digits(m, p, t, c=1.0, n=200):
 
     return xu, yu, xl, yl
 
-# Exemple d'utilisation pour un profil NACA 2412
+
+
+def affiche_profil(m,p,t):
+    # Exemple d'utilisation pour un profil NACA 2412
+    xu, yu, xl, yl = naca4_digits(m, p, t)
+
+    # Affichage du profil
+    plt.figure(figsize=(10, 5))
+    plt.plot(xu, yu, label='Extrados')
+    plt.plot(xl, yl, label='Intrados')
+    plt.axis('equal')
+    plt.title(f'Profil NACA {m}{p}{t}')
+    plt.xlabel('x/c')
+    plt.ylabel('y/c')
+    plt.legend()
+    plt.grid(True)
+    plt.show()
+
+
 m, p, t = 2, 4, 12
-xu, yu, xl, yl = naca4_digits(m, p, t)
-
-# Affichage du profil
-plt.figure(figsize=(10, 5))
-plt.plot(xu, yu, label='Extrados')
-plt.plot(xl, yl, label='Intrados')
-plt.axis('equal')
-plt.title(f'Profil NACA {m}{p}{t}')
-plt.xlabel('x/c')
-plt.ylabel('y/c')
-plt.legend()
-plt.grid(True)
-plt.show()
-
+affiche_profil(m,p,t)
 
 ###il faut maintenant créer le profil en 3D et exporter les points en SVG
+
+
