@@ -9,5 +9,12 @@ ici on se propose de créer notre aile nous-même mais si besoin il y a possibil
 par exemple sur cette page GitHub https://github.com/bazucas/NACAAirfoilPythonApp
 
 j'ai fait un programme python pour avoir le profil en fonction des paramètres désirés.
-Il faut maintenant le modifier pour avoir l'aile en 3D (ajouter un facteur de régression pour que  la corde du saumon soit plus faible que celle du Karman)
+
+ensuite il y a une fonction pour générer un profil en 3D
+
+ensuite on exporte en format STL pour faire des simus 3D
+    il faut installer le package STL : pip -install stl
+    cf : https://pypi.org/project/numpy-stl/#description
+
+
 Ensuite on pourra faire des simulations avec Fusion 360 ou XFOIL (gratuit) et obtenir la polaire de l'aile
