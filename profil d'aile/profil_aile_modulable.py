@@ -73,7 +73,7 @@ def profil3D(m, p, t,l,emax,emin,n):
 
 
 
-def affiche_profil2D(m,p,t,n):
+def affiche_profil2D(m,p,t,n,export):
     # Exemple d'utilisation pour un profil NACA 2412
     xu, yu, xl, yl = naca4_digits(m, p, t,n)
 
@@ -89,7 +89,10 @@ def affiche_profil2D(m,p,t,n):
     plt.legend()
     plt.show()
 
-def export_stl(X, Y, Z, filename="aile.stl"):
+    if export:
+        export_nervure_svg(m,p,t,xu,yu,xl,yl)
+
+def export_stl(X, Y, Z,m,p,t):
     """
     Crée un fichier STL à partir des matrices X, Y, Z de plot_surface.
     Chaque cellule de la grille est découpée en 2 triangles.
@@ -118,9 +121,22 @@ def export_stl(X, Y, Z, filename="aile.stl"):
     for i, tri in enumerate(triangles):
         for j in range(3):
             aile.vectors[i][j] = tri[j]
-
-    aile.save("fichier_STL")
+    aile.save(f"NACA_{m}{p}{t}.stl")
     print(f"Fichier STL sauvegardé : fichier_STL ({len(triangles)} triangles)")
+
+
+
+def export_nervure_svg(m,p,t,xu,yu,xl,yl):
+    """ crée un fichier svg avec les points de la nervure"""
+
+    fig, ax = plt.subplots(figsize=(10, 5))
+    ax.plot(xu, yu, color='black')
+    ax.plot(xl, yl, color='black')
+    ax.axis('equal')
+    # Sauvegarde en SVG
+    fig.savefig(f"nervure_{m}{p}{t}.svg", format='svg')
+    plt.close(fig)
+    print(f"Profil 2D sauvegardé en SVG : {f"nervure_{m}{p}{t}.stl"}")
 
 
 def affiche_profil3D(m,p,t,l,emax,emin,n,export):
@@ -132,16 +148,14 @@ def affiche_profil3D(m,p,t,l,emax,emin,n,export):
     plt.show()
     #export
     if export:
-        export_stl(X,Y,Z)
+        export_stl(X,Y,Z,m,p,t)
 
 n=300#nbr points pleaaase multiple de 3
-m, p, t = 2, 2, 10
-affiche_profil2D(m,p,t,n)
-emax,emin,l=1,0.3,10
-export=True#true if want to create a STD file
+m, p, t = 4, 4, 18
+emax,emin,l=1,0.4,3
+export=True#true if want to create a STL file
+affiche_profil2D(m,p,t,n,export)
 affiche_profil3D(m,p,t,l,emax,emin,n,export)
 
-
-###il faut maintenant créer le profil en 3D et exporter les points en SVG
 
 
