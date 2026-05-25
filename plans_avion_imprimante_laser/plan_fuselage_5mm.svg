@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="594mm"
+   viewBox="0 0 420 594"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="plan_fuselage_5mm.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.15456299"
+     inkscape:cx="886.37001"
+     inkscape:cy="976.94797"
+     inkscape:window-width="1440"
+     inkscape:window-height="938"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="1086.7084"
+       y="292.3309"
+       width="978.67303"
+       height="832.50757"
+       id="rect5" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 30.008707,224.23982 5.02878,-164.020175 30.042618,-0.014 -0.0588,164.007135 z"
+       id="path22"
+       inkscape:label="dérive couche gauche" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 35.312047,45.818016 -5.02878,164.020174 -30.04261959,0.014 0.0588,-164.007134 z"
+       id="path21"
+       inkscape:label="dérive couche droite"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 248.1818,158.25454 -10.03263,0.0175 -49.9527,124.98692 0.006,10.05017 49.96646,125.02269 10.06242,-0.0372 z"
+       id="path30"
+       inkscape:label="contours avant profondeur dessous" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 186.96254,260.44398 10.03263,-0.0175 49.9527,-124.98692 -0.006,-10.05017 -49.96646,-125.02269314 -10.06242,0.0372 z"
+       id="path31"
+       inkscape:label="contours avant profondeur dessus" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 248.60259,260.6818 40.04955,0.028 -0.0409,120.02322 -29.98973,-0.003 0.038,20.04479 29.98095,-0.0175 -0.003,120.01299 -40.03551,0.0103 z"
+       id="path32"
+       inkscape:label="contours arrière profondeur dessus" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 248.56931,0.28690867 40.04955,0.028 -0.0409,120.02321133 -29.98973,-0.003 0.038,20.04479 29.98095,-0.0175 -0.003,120.01299 -40.03551,0.0103 z"
+       id="path33"
+       inkscape:label="contours arrière profondeur dessous" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect1"
+       width="41"
+       height="370"
+       x="65.226181"
+       y="80.585938"
+       inkscape:label="coutours côté intérieur gauche 1" />
+    <g
+       id="g9"
+       transform="translate(-318.18871,156.5488)"
+       inkscape:label="contours côté intérieur gauche 2">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 318.39665,67.804804 13.90906,330.007886 171.02585,-0.57198 -0.4903,-29.94792 -152.86784,-74.70934 9.56324,-224.749296 z"
+         id="path7" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 332.54063,357.58847 h 10.12164 l 0.0641,-70.11477 h -10.12163 z"
+         id="path9" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect9"
+       width="41"
+       height="370"
+       x="106.52374"
+       y="100.2885"
+       inkscape:label="coutours côté intérieur droit 1" />
+    <g
+       id="g12"
+       transform="rotate(180,254.07161,199.13853)"
+       inkscape:label="contours côté intérieur droit 2">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 318.39665,67.804804 13.90906,330.007886 171.02585,-0.57198 -0.4903,-29.94792 -152.86784,-74.70934 9.56324,-224.749296 z"
+         id="path11" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+         d="m 332.54063,357.58847 h 10.12164 l 0.0641,-70.11477 h -10.12163 z"
+         id="path12" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,361.00938,773.79917)"
+       id="text5"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);fill:none;stroke:#000000;stroke-width:1.88976;stroke-linecap:square;stroke-miterlimit:0;paint-order:fill markers stroke"><tspan
+         x="1086.709"
+         y="302.94727"
+         id="tspan3">Demander à M. Bouhier si on peut imprimer sans faire uniquement 1 figure (la découpeuse passse plusieurs fois au même endroit.
+</tspan><tspan
+         x="1086.709"
+         y="317.94727"
+         id="tspan4">Sinon il faut faire des droites à l'intérieur du contours
+</tspan></text>
+  </g>
+</svg>

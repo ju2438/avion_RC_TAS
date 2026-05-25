@@ -63,10 +63,15 @@ def profil3D(m, p, t,l,emax,emin,n):
     scale1=np.linspace(emax,emin+5*(emax-emin)/6,nz//3)
     scale2=np.linspace(emin+5*(emax-emin)/6,emin+3*(emax-emin)/6,nz//3)
     scale3=np.linspace(emin+3*(emax-emin)/6,emin,nz//3)
-    scale=np.concatenate((scale1,scale2,scale3))
+    scale_X=np.concatenate((scale1,scale2,scale3))
 
-    X=np.outer(scale,x)#taille n*2*n
-    Y=np.outer(scale,y)#taille n*2*n
+    scale4=np.linspace(emax,emin+5*(emax-emin)/6,nz//3)
+    scale5=np.linspace(emin+5*(emax-emin)/6,emin+3*(emax-emin)/6,nz//3)
+    scale6=np.linspace(emin+3*(emax-emin)/6,emin,nz//3)
+    scale_Y=np.concatenate((scale4,scale5,scale6))
+
+    X=np.outer(scale_X,x)#taille n*2*n
+    Y=np.outer(scale_Y,y)#taille n*2*n
     Z=np.outer(z,np.ones(2*n))#taille n*2*nz
     return X,Y,Z
     
@@ -142,7 +147,7 @@ def export_nervure_svg(m,p,t,xu,yu,xl,yl):
 def affiche_profil3D(m,p,t,l,emax,emin,n,export):
     fig, ax = plt.subplots(subplot_kw={"projection": "3d"})
     X, Y, Z = profil3D(m, p, t, l,emax,emin,n)
-    #show figure
+    #show figure"""e"""""
     ax.plot_surface(X, Y, Z, cmap="coolwarm")
     ax.set_aspect('equal')
     plt.show()

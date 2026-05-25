@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2000mm"
+   height="2000mm"
+   viewBox="0 0 2000 2000"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="plan_fuselage_3mm.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs4">
+    <rect
+       x="2347.5129"
+       y="392.79254"
+       width="545.28845"
+       height="434.38232"
+       id="rect17" />
+    <rect
+       x="2463.0403"
+       y="457.48776"
+       width="388.17145"
+       height="226.43333"
+       id="rect16" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <linearGradient
+       id="swatch4"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect8-0"
+       is_visible="true"
+       lpeversion="1.3"
+       threshold="10.869565"
+       steps="1"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.11126744"
+     inkscape:cx="2287.2819"
+     inkscape:cy="4916.0833"
+     inkscape:window-width="1440"
+     inkscape:window-height="938"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 62.031699,73.162823 50.036021,0.324207 0.10807,369.81268 -16.858788,329.93515 H 79.106627 L 62.247837,443.40777 Z"
+     id="path10"
+     inkscape:label="contours du fuselage vue verticale"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 114.53572,73.418202 50.05276,0.305665 0.15283,199.828993 -50.12918,-0.0764 z"
+     id="path13"
+     inkscape:label="contours du fuselage vue de dessus 2"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 118.4307,423.2227 49.97634,0.0764 0.15285,19.71546 -16.81162,330.34827 -0.22926,-110.03968 -16.04746,0.15282 0.0764,110.11609 -17.04088,-330.50109 z"
+     id="path14"
+     inkscape:label="contours du fuselage vue de dessus 1"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 177.32459,447.25165 50.14409,0.10806 -16.75072,329.61095 h -16.42651 z"
+     id="path15"
+     inkscape:label="contours du fuselage vue de dessous 2"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 178.43918,443.47558 50.25216,0.10808 -0.10807,-370.028826 -50.03602,0.108069 z"
+     id="path16"
+     inkscape:label="contours du fuselage vue de dessous 1"
+     sodipodi:insensitive="true" />
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:description>on part</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-size:5.78042px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.499998;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     x="106.23303"
+     y="22.758507"
+     id="text18"
+     inkscape:label="notes"
+     transform="scale(0.91102169,1.0976687)"
+     sodipodi:insensitive="true"><tspan
+       sodipodi:role="line"
+       id="tspan18"
+       style="stroke-width:0.5"
+       x="106.23303"
+       y="22.758507">Attention :</tspan><tspan
+       sodipodi:role="line"
+       style="stroke-width:0.5"
+       x="106.23303"
+       y="29.984032"
+       id="tspan19">la planche de découpe doit avoir une épaisseur de 5 mm sinon il faut refaire les plans</tspan></text>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     id="rect1"
+     width="41"
+     height="370"
+     x="238.89128"
+     y="71.95034"
+     inkscape:label="coutours côté intérieur gauche 1"
+     sodipodi:insensitive="true" />
+  <g
+     id="g9"
+     transform="translate(-82.024586,379.78375)"
+     inkscape:label="contours côté intérieur gauche 2"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 318.39665,67.804804 13.90906,330.007886 171.02585,-0.57198 -0.4903,-29.94792 -152.86784,-74.70934 9.56324,-224.749296 z"
+       id="path7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 332.54063,357.58847 h 10.12164 l 0.0641,-70.11477 h -10.12163 z"
+       id="path9" />
+  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     id="rect9"
+     width="41"
+     height="370"
+     x="354.8541"
+     y="74.849411"
+     inkscape:label="coutours côté intérieur droit 1"
+     sodipodi:insensitive="true" />
+  <g
+     id="g12"
+     transform="translate(-18.245053,272.51817)"
+     inkscape:label="contours côté intérieur droit 2"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 318.39665,67.804804 13.90906,330.007886 171.02585,-0.57198 -0.4903,-29.94792 -152.86784,-74.70934 9.56324,-224.749296 z"
+       id="path11" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 332.54063,357.58847 h 10.12164 l 0.0641,-70.11477 h -10.12163 z"
+       id="path12" />
+  </g>
+  <g
+     id="g18"
+     inkscape:label="contours côté extérieur gauche 2"
+     transform="translate(297.24302,72.773291)"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 314.30727,559.95715 10.12962,0.04 -0.032,70.14681 -10.15368,-0.0401 z"
+       id="path18" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 341.27694,340.34005 -17.20837,330.00222 -10.04959,-0.0241 -13.90923,-330.02625 z"
+       id="path17" />
+  </g>
+  <g
+     id="g20"
+     inkscape:label="contours côté extérieur droit 2"
+     transform="translate(228.56963,74.823241)"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 314.30727,559.95715 10.12962,0.04 -0.032,70.14681 -10.15368,-0.0401 z"
+       id="path19" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 341.27694,340.34005 -17.20837,330.00222 -10.04959,-0.0241 -13.90923,-330.02625 z"
+       id="path20" />
+  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     id="rect20"
+     width="41"
+     height="370"
+     x="597.63287"
+     y="36.076183"
+     inkscape:label="coutours côté extérieur gauche 1"
+     sodipodi:insensitive="true" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     id="rect21"
+     width="41"
+     height="370"
+     x="527.93451"
+     y="35.051208"
+     inkscape:label="coutours côté extérieur droit 1"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     d="m 431.70127,802.83236 164.02018,5.02878 0.014,30.04262 -164.00714,-0.0588 z"
+     id="path21"
+     inkscape:label="dérive couche droite"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     d="m 429.95878,754.84608 164.02018,5.02878 0.014,30.04262 -164.00714,-0.0588 z"
+     id="path22"
+     inkscape:label="dérive couche gauche"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     d="m 728.95208,587.85023 -10.03263,0.0175 -49.9527,124.98692 0.006,10.05017 49.96646,125.02269 10.06242,-0.0372 z"
+     id="path30"
+     inkscape:label="contours avant profondeur dessous"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     d="m 728.95208,316.9169 -10.03263,0.0175 -49.9527,124.98692 0.006,10.05017 49.96646,125.02269 10.06242,-0.0372 z"
+     id="path31"
+     inkscape:label="contours avant profondeur dessus"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     d="m 740.97547,590.40626 40.04955,0.028 -0.0409,120.02322 -29.98973,-0.003 0.038,20.04479 29.98095,-0.0175 -0.003,120.01299 -40.03551,0.0103 z"
+     id="path32"
+     inkscape:label="contours arrière profondeur dessus"
+     sodipodi:insensitive="true" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;paint-order:fill markers stroke"
+     d="m 739.47876,313.51503 40.04955,0.028 -0.0409,120.02322 -29.98973,-0.003 0.038,20.04479 29.98095,-0.0175 -0.003,120.01299 -40.03551,0.0103 z"
+     id="path33"
+     inkscape:label="contours arrière profondeur dessous"
+     sodipodi:insensitive="true" />
+</svg>
